@@ -18,8 +18,8 @@ public class Users {
 		return id;
 	}
 	
-	public void setId(int u) {
-		id = u;
+	public void setId(int x) {
+		id = x;
 	}
 	
 	public String getName() {
