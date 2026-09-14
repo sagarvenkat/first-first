@@ -27,7 +27,7 @@ public class Users {
 	}
 	
 	public void setName(String u) {
-		name = u;
+		name=u;
 	}
 	
 	public int getAge() {
